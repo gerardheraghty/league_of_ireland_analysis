@@ -1,0 +1,753 @@
+,home_team,away_team,score,kick_off_time,home_goals,away_goals,date,referee,stadium,attendance,season
+0,Cork City,Bohemians,1 - 2,19:45,R. Keating 82',"19' G. Horton
+53' J. Flores",2023-02-17,'Robert Hennessy',"""Turner's Cross""",6487,2023
+1,Dundalk,UCD,1 - 1,19:45,J. Martin 34',78' C. Behan,2023-02-17,'Arnold Hunter','Oriel Park',3142,2023
+2,Shelbourne,Drogheda United,0 - 0,19:45,,,2023-02-17,'Paul McLaughlin','Tolka Park',3424,2023
+3,Sligo Rovers,Shamrock Rovers,1 - 1,19:45,L. Browning-Lagerfeldt 94',17' G. Burke,2023-02-18,'Damien MacGraith','The Showgrounds',4248,2023
+4,Bohemians,Dundalk,2 - 1,19:45,"J. Flores 46'
+D. McDaid 71'",89' J. Yli-Kokko,2023-02-24,'Robert Harvey','Dalymount Park',4432,2023
+5,Derry City,Cork City,2 - 0,19:45,"P. McEleney 31'
+J. McEneff 63'",,2023-02-24,'Damien MacGraith','The Ryan McBride Brandywell Stadium',3305,2023
+6,Drogheda United,Shamrock Rovers,1 - 1,19:45,R. Brennan 89',53' G. Burke,2023-02-24,'Sean Grant','Weavers Park',2182,2023
+7,St Patrick's Athletic,Shelbourne,1 - 0,19:45,E. Doyle 84',,2023-02-24,'Neil Doyle','Richmond Park',4930,2023
+8,UCD,Sligo Rovers,2 - 3,19:45,"A. Nolan 5'
+D. Kinsella-Bishop 49'","21' M. Mata
+69' M. Mata
+82' M. Mata",2023-02-24,'Raymond Matthews','UCD Bowl',716,2023
+9,Cork City,UCD,4 - 0,19:45,"M. Healy 13'
+D. Crowley 45'
+R. Keating 66'
+E. Varian 71'",,2023-03-03,'Sean Grant',"""Turner's Cross""",4857,2023
+10,Drogheda United,Sligo Rovers,1 - 0,19:45,A. Foley 59',,2023-03-03,'Adriano Reale','Weavers Park',1544,2023
+11,Dundalk,St Patrick's Athletic,5 - 0,19:45,"P. Hoban 5'
+L. Annesley 15'
+R. Tulloch 51'
+D. Kelly 53'
+C. Malley 84'",,2023-03-03,'Paul McLaughlin','Oriel Park',3487,2023
+12,Shelbourne,Bohemians,1 - 0,19:45,K. Leavy 78',,2023-03-03,'Arnold Hunter','Tolka Park',4140,2023
+13,Shamrock Rovers,Derry City,1 - 2,20:00,J. Kenny 26',"18' B. Doherty
+54' J. McGonigle",2023-03-03,'Neil Doyle','Tallaght Stadium',7626,2023
+14,Bohemians,Drogheda United,3 - 1,19:45,"J. Flores 9'
+A. Coote 38'
+J. Akintunde 51'",15' F. Draper,2023-03-06,'Raymond Matthews','Dalymount Park',4114,2023
+15,Dundalk,Shelbourne,2 - 1,19:45,"R. Tulloch 47'
+A. Boyle 68'",15' J. Wilson,2023-03-06,'Damien MacGraith','Oriel Park',2766,2023
+16,Sligo Rovers,St Patrick's Athletic,2 - 1,19:45,"R. Hutchinson 32'
+F. Hartmann 67'",62' C. Forrester,2023-03-06,'Robert Hennessy','The Showgrounds',2751,2023
+17,UCD,Derry City,0 - 4,19:45,E. Osam 75',"15' J. McEneff
+41' J. McEneff
+65' O. O'Neill",2023-03-06,'David Dunne','UCD Bowl',406,2023
+18,Shamrock Rovers,Cork City,4 - 4,20:00,"R. Gaffney 14'
+L. Grace 53'
+S. Power 84'
+S. Hoare 97'","34' R. Keating
+38' D. Crowley
+58' K. Čustović
+69' D. Crowley",2023-03-06,'Robert Harvey','Tallaght Stadium',4028,2023
+19,Derry City,Dundalk,0 - 0,19:45,,,2023-03-10,'Robert Hennessy','The Ryan McBride Brandywell Stadium',3550,2023
+20,Shelbourne,Shamrock Rovers,0 - 0,19:45,,,2023-03-10,'Paul McLaughlin','Tolka Park',4140,2023
+21,St Patrick's Athletic,Bohemians,0 - 2,19:45,,"18' J. Afolabi
+92' D. Williams",2023-03-10,'Neil Doyle','Richmond Park',5002,2023
+22,UCD,Drogheda United,0 - 1,19:45,,73' E. Adegboyega,2023-03-10,"""Kevin O'Sullivan""",'UCD Bowl',438,2023
+23,Sligo Rovers,Cork City,2 - 2,19:45,"É. Clancy 79'
+M. Mata 93'","18' J. Häkkinen
+63' R. Keating",2023-03-11,'Arnold Hunter','The Showgrounds',3178,2023
+24,Drogheda United,Dundalk,0 - 1,19:45,,65' C. Malley,2023-03-16,'Paul McLaughlin','Weavers Park',2193,2023
+25,Cork City,Shelbourne,0 - 2,17:00,J. Honohan 10',50' J. Moylan,2023-03-17,'Raymond Matthews',"""Turner's Cross""",5078,2023
+26,Shamrock Rovers,St Patrick's Athletic,2 - 2,17:00,"R. Towell 20'
+J. Byrne 54'","42' E. Doyle
+88' J. Mulraney",2023-03-17,'Damien MacGraith','Tallaght Stadium',7674,2023
+27,Bohemians,UCD,2 - 1,19:45,"P. Kirk 55'
+A. Coote 58'",12' D. Kinsella-Bishop,2023-03-17,'Robert Harvey','Dalymount Park',4017,2023
+28,Derry City,Sligo Rovers,1 - 1,19:45,C. Coll 81',25' M. Mata,2023-03-17,'Adriano Reale','The Ryan McBride Brandywell Stadium',3210,2023
+29,Cork City,Drogheda United,1 - 1,19:45,"R. Keating 17'
+A. Gilchrist 40'",,2023-03-31,'Robert Harvey',"""Turner's Cross""",4069,2023
+30,Dundalk,Shamrock Rovers,0 - 4,19:45,,"22' R. Gaffney
+37' L. Grace
+71' J. Kenny
+76' G. Burke",2023-03-31,'Arnold Hunter','Oriel Park',3761,2023
+31,Shelbourne,Derry City,0 - 1,19:45,,11' R. Graydon,2023-03-31,'Paul McLaughlin','Tolka Park',2950,2023
+32,St Patrick's Athletic,UCD,3 - 0,19:45,"C. Forrester 16'
+J. Mulraney 38'
+C. Forrester 52'",,2023-03-31,'Sean Grant','Richmond Park',3411,2023
+33,Sligo Rovers,Bohemians,0 - 1,19:45,,83' K. Nowak,2023-04-01,'Robert Hennessy','The Showgrounds',3651,2023
+34,Bohemians,Shamrock Rovers,0 - 2,19:45,,"44' N. Farrugia
+67' R. Gaffney",2023-04-07,'Robert Harvey','Dalymount Park',4209,2023
+35,Derry City,Drogheda United,0 - 1,19:45,,78' E. Ahui,2023-04-07,'Arnold Hunter','The Ryan McBride Brandywell Stadium',3605,2023
+36,Dundalk,Sligo Rovers,1 - 2,19:45,R. Tulloch 44',"16' M. Mata
+89' S. Radosavljević",2023-04-07,'Damien MacGraith','Oriel Park',2457,2023
+37,St Patrick's Athletic,Cork City,4 - 0,19:45,"J. Mulraney 15'
+J. McClelland 64'
+J. Lennon 75'
+M. Doyle 90'",,2023-04-07,'Robert Hennessy','Richmond Park',3689,2023
+38,UCD,Shelbourne,0 - 0,19:45,,,2023-04-07,"""Eoghan O'Shea""",'UCD Bowl',968,2023
+39,Cork City,Dundalk,1 - 0,17:00,C. Murphy 38',,2023-04-10,'Sean Grant',"""Turner's Cross""",3647,2023
+40,Derry City,Bohemians,0 - 1,19:00,,66' D. Williams,2023-04-10,'Neil Doyle','The Ryan McBride Brandywell Stadium',3600,2023
+41,Drogheda United,St Patrick's Athletic,1 - 3,19:45,D. Grimes 23',"19' C. Forrester
+34' C. Forrester
+95' E. Doyle",2023-04-10,"""Kevin O'Sullivan""",'Weavers Park',2225,2023
+42,Shelbourne,Sligo Rovers,2 - 1,19:45,M. Smith 52',"36' D. Lafferty
+58' J. Mahon",2023-04-10,'Robert Harvey','Tolka Park',2100,2023
+43,Shamrock Rovers,UCD,3 - 0,20:00,"G. Burke 21'
+G. Burke 25'
+J. Byrne 58'",,2023-04-10,'Damien MacGraith','Tallaght Stadium',4012,2023
+44,Bohemians,St Patrick's Athletic,2 - 3,19:45,"A. McDonnell 14'
+D. Williams 62'","19' C. Forrester
+23' J. McClelland
+30' M. Doyle",2023-04-14,'Paul McLaughlin','Dalymount Park',4428,2023
+45,Shamrock Rovers,Shelbourne,2 - 2,19:45,"G. Burke 18'
+G. Burke 54'
+Roberto Lopes 77'",51' M. Smith,2023-04-14,'Neil Doyle','Tallaght Stadium',6835,2023
+46,UCD,Cork City,1 - 0,19:45,C. Behan 1',,2023-04-14,'Adriano Reale','UCD Bowl',519,2023
+47,Sligo Rovers,Drogheda United,1 - 1,19:45,M. Mata 63',52' R. Brennan,2023-04-15,'Arnold Hunter','The Showgrounds',2317,2023
+48,Dundalk,Derry City,2 - 2,15:00,"R. Benson 71'
+J. Yli-Kokko 72'","44' B. Doherty
+79' C. Kavanagh",2023-04-16,'Robert Hennessy','Oriel Park',2377,2023
+49,Cork City,Derry City,1 - 3,19:45,T. Owolabi 93',"38' R. Boyce
+60' M. Duffy
+78' C. Whelan",2023-04-21,'Robert Harvey',"""Turner's Cross""",3307,2023
+50,Drogheda United,Bohemians,0 - 2,19:45,,"17' P. Kirk
+94' D. McDaid",2023-04-21,'Sean Grant','Weavers Park',2175,2023
+51,Shelbourne,Dundalk,1 - 1,19:45,J. Moylan 56',81' R. Tulloch,2023-04-21,'Damien MacGraith','Tolka Park',2873,2023
+52,St Patrick's Athletic,Shamrock Rovers,0 - 2,19:45,,"20' J. Kenny
+69' T. Clarke",2023-04-21,'Robert Hennessy','Richmond Park',5011,2023
+53,Sligo Rovers,UCD,3 - 1,19:45,"M. Mata 5'
+F. Hartmann 25'
+F. Hartmann 76'",45' M. Dignam,2023-04-22,'Paul McLaughlin','The Showgrounds',2353,2023
+54,Derry City,St Patrick's Athletic,2 - 0,19:45,"B. Doherty 71'
+C. Whelan 79'",,2023-04-28,'Paul McLaughlin','The Ryan McBride Brandywell Stadium',3054,2023
+55,Dundalk,Drogheda United,3 - 2,19:45,"R. O'Kane 23'
+P. Hoban 28'
+J. Martin 91'","54' D. Rooney
+72' F. Draper",2023-04-28,'Neil Doyle','Oriel Park',2825,2023
+56,Shelbourne,Cork City,2 - 1,19:45,"M. Smith 48'
+J. Moylan 83'",87' J. O'Brien-Whitmarsh,2023-04-28,'Raymond Matthews','Tolka Park',2782,2023
+57,UCD,Bohemians,1 - 1,19:45,J. Doyle 88',53' J. Afolabi,2023-04-28,"""Kevin O'Sullivan""",'UCD Bowl',1567,2023
+58,Shamrock Rovers,Sligo Rovers,2 - 1,20:00,"J. Kenny 19'
+T. Clarke 64'",69' G. Bolger,2023-04-28,'Damien MacGraith','Tallaght Stadium',5512,2023
+59,Bohemians,Cork City,5 - 0,17:00,"J. Flores 32'
+A. McDonnell 57'
+A. Coote 78'
+A. Coote 80'
+J. McManus 84'",,2023-05-01,'Adriano Reale','Dalymount Park',4145,2023
+60,Drogheda United,Shelbourne,1 - 1,17:00,F. Draper 49',68' E. Caffrey,2023-05-01,'Robert Hennessy','Weavers Park',2055,2023
+61,St Patrick's Athletic,Sligo Rovers,0 - 1,15:00,,56' M. Mata,2023-05-01,'Neil Doyle','Richmond Park',4265,2023
+62,UCD,Dundalk,0 - 2,17:00,,"35' J. Martin
+94' R. O'Kane",2023-05-01,'Sean Grant','UCD Bowl',759,2023
+63,Derry City,Shamrock Rovers,0 - 2,19:15,,"30' R. Towell
+46' J. Byrne",2023-05-01,'Robert Harvey','The Ryan McBride Brandywell Stadium',3700,2023
+64,Cork City,St Patrick's Athletic,2 - 3,19:45,"T. Owolabi 15'
+J. O'Brien-Whitmarsh 20'","6' C. Carty
+55' J. Mulraney
+80' A. Murphy",2023-05-05,"""Eoghan O'Shea""","""Turner's Cross""",3211,2023
+65,Drogheda United,Derry City,0 - 1,19:45,,12' A. O'Reilly,2023-05-05,'Damien MacGraith','Weavers Park',1451,2023
+66,Shelbourne,UCD,1 - 0,19:45,Shane Anthony Griffin 39',,2023-05-05,'Robert Harvey','Tolka Park',2319,2023
+67,Shamrock Rovers,Bohemians,2 - 0,19:45,"T. Clarke 57'
+R. Gaffney 82'",,2023-05-05,'Robert Hennessy','Tallaght Stadium',7864,2023
+68,Sligo Rovers,Dundalk,0 - 1,19:45,,84' K. Ward,2023-05-06,'Paul McLaughlin','The Showgrounds',2643,2023
+69,Bohemians,Derry City,0 - 1,19:45,,16' R. Graydon,2023-05-12,'Paul McLaughlin','Dalymount Park',4293,2023
+70,Dundalk,Cork City,2 - 1,19:45,"C. Elliott 94'
+P. Hoban 97'",19' T. Owolabi,2023-05-12,'Damien MacGraith','Oriel Park',2389,2023
+71,St Patrick's Athletic,Drogheda United,3 - 0,19:45,"J. McClelland 82'
+C. Forrester 90'
+C. Forrester 92'",,2023-05-12,'Sean Grant','Richmond Park',4011,2023
+72,UCD,Shamrock Rovers,0 - 3,19:45,A. Wells 71',"17' T. Clarke
+53' A. Greene",2023-05-12,'David Dunne','UCD Bowl',1673,2023
+73,Sligo Rovers,Shelbourne,0 - 3,19:45,,"9' J. Moylan
+41' J. Moylan
+66' J. Moylan",2023-05-13,'Neil Doyle','The Showgrounds',2431,2023
+74,Derry City,Dundalk,3 - 0,19:45,"J. McEneff 19'
+B. Kavanagh 60'
+M. Duffy 83'",,2023-05-15,'Robert Harvey','The Ryan McBride Brandywell Stadium',3295,2023
+75,Shamrock Rovers,St Patrick's Athletic,3 - 2,20:00,"L. Grace 47'
+R. Towell 68'
+R. Towell 89'","28' M. Doyle
+84' B. McCormack",2023-05-15,'Damien MacGraith','Tallaght Stadium',6212,2023
+76,Cork City,Sligo Rovers,1 - 0,19:45,R. Keating 15',,2023-05-19,'David Dunne',"""Turner's Cross""",3051,2023
+77,Derry City,UCD,4 - 1,19:45,"J. McEneff 13'
+M. Duffy 50'
+M. Duffy 64'
+M. Ward 84'",75' A. Wells,2023-05-19,"""Eoghan O'Shea""",'The Ryan McBride Brandywell Stadium',3350,2023
+78,Dundalk,Bohemians,2 - 2,19:45,P. Hoban 3',"30' J. Talbot
+77' D. McDaid
+87' J. Flores",2023-05-19,'Neil Doyle','Oriel Park',2473,2023
+79,Shelbourne,St Patrick's Athletic,0 - 1,19:45,,57' S. Curtis,2023-05-19,'Paul McLaughlin','Tolka Park',3946,2023
+80,Shamrock Rovers,Drogheda United,1 - 2,20:00,R. Gaffney 79',"44' F. Draper
+57' D. Rooney",2023-05-19,'Robert Harvey','Tallaght Stadium',5157,2023
+81,Bohemians,Shelbourne,0 - 0,19:45,,,2023-05-26,'Damien MacGraith','Dalymount Park',4381,2023
+82,Cork City,Shamrock Rovers,1 - 0,19:45,R. Keating 85',,2023-05-26,'Sean Grant',"""Turner's Cross""",4240,2023
+83,Drogheda United,UCD,3 - 1,19:45,"F. Draper 42'
+F. Draper 45'
+D. Grimes 67'",19' A. Wells,2023-05-26,"""Kevin O'Sullivan""",'Weavers Park',1629,2023
+84,St Patrick's Athletic,Dundalk,2 - 1,19:45,"M. Doyle 30'
+C. Carty 79'",48' R. Tulloch,2023-05-26,'Raymond Matthews','Richmond Park',4089,2023
+85,Sligo Rovers,Derry City,1 - 0,19:45,W. Fitzgerald 4',,2023-05-27,'Paul McLaughlin','The Showgrounds',2831,2023
+86,Bohemians,Sligo Rovers,2 - 0,19:45,"J. Clarke 32'
+D. McDaid 68'",,2023-06-02,"""Eoghan O'Shea""",'Dalymount Park',4147,2023
+87,Derry City,Shelbourne,0 - 0,19:45,,,2023-06-02,'Robert Hennessy','The Ryan McBride Brandywell Stadium',3560,2023
+88,Drogheda United,Cork City,0 - 1,19:45,,59' T. Owolabi,2023-06-02,'Neil Doyle','Weavers Park',1602,2023
+89,UCD,St Patrick's Athletic,1 - 3,19:45,D. Kinsella-Bishop 86',"7' C. Carty
+42' N. Lewis
+64' N. Lewis",2023-06-02,'Gavin Colfer','UCD Bowl',1129,2023
+90,Cork City,Bohemians,2 - 1,17:00,"M. Healy 73'
+D. Krezic 88'",87' A. McDonnell,2023-06-05,'Robert Harvey',"""Turner's Cross""",3891,2023
+91,Shamrock Rovers,Dundalk,2 - 0,19:45,"A. Greene 34'
+A. Greene 62'",,2023-06-02,'Paul McLaughlin','Tallaght Stadium',5602,2023
+92,Dundalk,UCD,4 - 1,17:00,"P. Hoban 23'
+D. Kelly 41'
+P. Hoban 53'
+P. Hoban 69'",7' J. Doyle,2023-06-05,'Damien MacGraith','Oriel Park',1762,2023
+93,Sligo Rovers,Shamrock Rovers,0 - 3,18:00,,"53' R. Gaffney
+56' R. Gaffney
+88' A. Greene",2023-06-05,'Robert Hennessy','The Showgrounds',2587,2023
+94,St Patrick's Athletic,Derry City,4 - 1,18:45,"J. McGrath 36'
+E. Doyle 62'
+C. Forrester 67'
+M. Doyle 79'",65' C. Kavanagh,2023-06-05,'Neil Doyle','Richmond Park',4005,2023
+95,Shelbourne,Drogheda United,3 - 2,19:45,"S. Boyd 49'
+Shane Anthony Griffin 66'
+E. Caffrey 77'","40' F. Draper
+95' F. Draper",2023-06-05,'Sean Grant','Tolka Park',2533,2023
+96,Cork City,Dundalk,1 - 2,19:45,,"20' L. Annesley
+44' R. O'Kane
+85' J. Martin",2023-06-09,'Robert Hennessy',"""Turner's Cross""",3815,2023
+97,Derry City,Bohemians,0 - 0,19:45,,,2023-06-09,'Damien MacGraith','The Ryan McBride Brandywell Stadium',3274,2023
+98,Drogheda United,St Patrick's Athletic,2 - 1,19:45,"A. Foley 18'
+D. Markey 94'",45' C. Forrester,2023-06-09,'Paul McLaughlin','Weavers Park',1888,2023
+99,Shelbourne,Sligo Rovers,1 - 1,19:45,M. Smith 4',34' N. Morahan,2023-06-09,'Robert Harvey','Tolka Park',2615,2023
+100,Shamrock Rovers,UCD,4 - 0,20:00,"J. Byrne 26'
+G. Burke 43'
+K. Cruise 56'",15' H. O'Brien,2023-06-09,'David Dunne','Tallaght Stadium',5782,2023
+101,Bohemians,Shamrock Rovers,2 - 2,19:45,"J. Afolabi 67'
+J. Clarke 73'","48' N. Farrugia
+54' M. Poom",2023-06-23,'Neil Doyle','Dalymount Park',4370,2023
+102,Derry City,Cork City,2 - 0,19:45,"J. McGonigle 46'
+T. McGinty 90'",,2023-06-23,'David Dunne','The Ryan McBride Brandywell Stadium',3274,2023
+103,Drogheda United,Dundalk,1 - 2,19:45,A. Foley 9',"77' P. Hoban
+80' P. Hoban",2023-06-23,'Robert Harvey','Weavers Park',2278,2023
+104,St Patrick's Athletic,Shelbourne,1 - 0,19:45,J. Mulraney 69',,2023-06-23,'Robert Hennessy','Richmond Park',4754,2023
+105,UCD,Sligo Rovers,2 - 1,19:45,"J. Keaney 22'
+S. Clarke 74'
+J. Doyle 85'",,2023-06-23,'Adriano Reale','UCD Bowl',304,2023
+106,Dundalk,St Patrick's Athletic,1 - 1,19:45,D. Kelly 84',33' C. Carty,2023-06-26,'Damien MacGraith','Oriel Park',2371,2023
+107,Shamrock Rovers,Derry City,1 - 0,20:00,R. Gaffney 27',,2023-06-26,'Robert Hennessy','Tallaght Stadium',5824,2023
+108,Cork City,Drogheda United,1 - 1,19:45,J. O'Brien-Whitmarsh 81',67' A. Foley,2023-06-30,'Damien MacGraith',"""Turner's Cross""",3851,2023
+109,Dundalk,Shamrock Rovers,2 - 0,19:45,"L. Annesley 74'
+P. Hoban 77'",,2023-06-30,'Paul McLaughlin','Oriel Park',3156,2023
+110,Shelbourne,Derry City,1 - 1,19:45,S. Boyd 57',71' B. Doherty,2023-06-30,'Robert Harvey','Tolka Park',3186,2023
+111,St Patrick's Athletic,UCD,7 - 0,19:45,"C. Forrester 13'
+S. Curtis 47'
+T. Lonergan 65'
+J. McClelland 69'
+M. Melia 71'
+T. Lonergan 75'",45' M. Gallagher,2023-06-30,'Neil Doyle','Richmond Park',3357,2023
+112,Sligo Rovers,Bohemians,3 - 1,19:45,"K. Barlow 26'
+M. Mata 42'
+S. Radosavljević 56'",87' J. Afolabi,2023-06-30,'David Dunne','The Showgrounds',2108,2023
+113,Derry City,Sligo Rovers,2 - 1,19:45,"J. McGonigle 30'
+W. Patching 95'",41' D. Lafferty,2023-07-07,'Neil Doyle','The Ryan McBride Brandywell Stadium',3081,2023
+114,Bohemians,Dundalk,3 - 2,19:45,"J. McManus 15'
+J. O'Sullivan 81'
+J. Afolabi 84'","23' J. Yli-Kokko
+36' C. Malley",2023-07-07,'Robert Hennessy','Dalymount Park',4328,2023
+115,Drogheda United,Shamrock Rovers,0 - 0,19:45,,,2023-07-07,"""Kevin O'Sullivan""",'Weavers Park',2284,2023
+116,St Patrick's Athletic,Cork City,1 - 1,19:45,J. Mulraney 39',93' R. Keating,2023-07-07,'David Dunne','Richmond Park',3945,2023
+117,UCD,Shelbourne,0 - 4,19:45,,"45' J. Moylan
+66' J. Lunney
+80' S. Boyd
+91' J. Wilson",2023-07-07,'Damien MacGraith','UCD Bowl',1074,2023
+118,Shelbourne,Bohemians,1 - 1,19:45,J. Moylan 56',80' J. Afolabi,2023-07-14,'Neil Doyle','Tolka Park',4450,2023
+119,UCD,Drogheda United,1 - 3,19:45,D. Kinsella-Bishop 83',"19' R. Brennan
+26' C. Keeley
+72' A. Foley",2023-07-14,'Gavin Colfer','UCD Bowl',519,2023
+120,Bohemians,UCD,2 - 0,19:45,"J. Afolabi 75'
+J. Afolabi 89'",,2023-07-28,"""Kevin O'Sullivan""",'Dalymount Park',4142,2023
+121,Sligo Rovers,Cork City,3 - 0,19:45,"M. Mata 30'
+S. Radosavljević 73'",53' C. Drinan,2023-07-15,'Robert Hennessy','The Showgrounds',2236,2023
+122,Cork City,Shelbourne,0 - 2,19:45,,"20' H. Wood
+73' S. Boyd",2023-07-28,'David Dunne',"""Turner's Cross""",3672,2023
+123,Drogheda United,Sligo Rovers,2 - 2,19:45,"C. Keeley 59'
+A. Foley 68'
+D. Rooney 78'",24' S. Radosavljević,2023-07-28,'Paul McLaughlin','Weavers Park',1677,2023
+124,Sligo Rovers,St Patrick's Athletic,0 - 2,19:45,,"12' C. Forrester
+32' S. Curtis",2023-08-04,'Robert Harvey','The Showgrounds',2124,2023
+125,Bohemians,Drogheda United,4 - 2,19:45,"K. Radkowski 2'
+J. Afolabi 48'
+J. Afolabi 77'
+J. Clarke 85'","36' E. Weir
+75' J. Egan",2023-08-04,'Robert Hennessy','Dalymount Park',4322,2023
+126,Dundalk,Shelbourne,1 - 1,17:00,J. Martin 39',83' H. Wood,2023-08-06,"""Kevin O'Sullivan""",'Oriel Park',2318,2023
+127,Shamrock Rovers,Cork City,2 - 1,18:00,"G. Burke 29'
+L. Burt 50'",35' B. Coffey,2023-08-06,'Damien MacGraith','Tallaght Stadium',3419,2023
+128,Cork City,UCD,1 - 1,19:45,C. Bargary 26',66' D. Kinsella-Bishop,2023-08-11,'Gavin Colfer',"""Turner's Cross""",2826,2023
+129,Dundalk,Sligo Rovers,1 - 0,19:45,D. Kelly 10',,2023-08-11,'Adriano Reale','Oriel Park',1947,2023
+130,St Patrick's Athletic,Bohemians,0 - 0,19:45,,,2023-08-11,'Robert Harvey','Richmond Park',5011,2023
+131,Shelbourne,Shamrock Rovers,1 - 1,19:45,G. Molloy 94',20' M. Poom,2023-08-11,'David Dunne','Tolka Park',4250,2023
+132,Derry City,Drogheda United,3 - 0,18:30,"J. McEneff 41'
+J. McGonigle 85'
+M. Duffy 88'",,2023-08-13,"""Eoghan O'Shea""",'The Ryan McBride Brandywell Stadium',2461,2023
+133,Drogheda United,Cork City,3 - 1,19:45,"K. Robinson 61'
+A. McNally 85'
+R. Brennan 95'",15' K. Čustović,2023-08-25,'Robert Hennessy','Weavers Park',1776,2023
+134,UCD,St Patrick's Athletic,0 - 1,19:45,,43' J. Redmond,2023-08-25,"""Kevin O'Sullivan""",'UCD Bowl',1265,2023
+135,Bohemians,Derry City,2 - 2,20:30,"J. Clarke 13'
+J. Afolabi 53'","22' M. Duffy
+42' D. Mullen",2023-08-25,'Robert Harvey','Dalymount Park',4142,2023
+136,Shamrock Rovers,Dundalk,1 - 0,19:45,Roberto Lopes 62',,2023-08-25,'Neil Doyle','Tallaght Stadium',6021,2023
+137,Sligo Rovers,Shelbourne,0 - 1,19:45,,40' M. Coyle,2023-08-26,'Damien MacGraith','The Showgrounds',2191,2023
+138,Cork City,Sligo Rovers,3 - 0,19:45,"R. Keating 28'
+R. Keating 64'
+R. Keating 74'",,2023-09-01,'Oliver Moran',"""Turner's Cross""",2484,2023
+139,Drogheda United,UCD,3 - 0,19:45,"K. Robinson 34'
+K. Robinson 45'
+A. McNally 69'",,2023-09-01,"""Eoghan O'Shea""",'Weavers Park',1752,2023
+140,Dundalk,Derry City,1 - 3,19:45,P. Hoban 96',"42' W. Patching
+47' B. Doherty
+77' W. Patching",2023-09-01,'Damien MacGraith','Oriel Park',2861,2023
+141,Shelbourne,St Patrick's Athletic,2 - 1,19:45,"Euclides Cabral 80'
+P. Barrett 90'",20' J. Redmond,2023-09-01,'Neil Doyle','Tolka Park',2124,2023
+142,Shamrock Rovers,Bohemians,3 - 0,19:45,"L. Grace 43'
+R. Finn 51'
+N. Farrugia 82'",,2023-09-01,'Robert Hennessy','Tallaght Stadium',7816,2023
+143,UCD,Derry City,0 - 5,19:45,,"2' D. Mullen
+40' W. Patching
+44' B. Kavanagh
+52' W. Patching
+57' B. Kavanagh",2023-09-06,'David Dunne','UCD Bowl',433,2023
+144,Derry City,Shamrock Rovers,1 - 1,19:45,C. McJannet 62',85' G. Burke,2023-09-15,'Paul McLaughlin','The Ryan McBride Brandywell Stadium',3435,2023
+145,Sligo Rovers,UCD,2 - 0,19:45,K. Barlow 63',17' E. Osam,2023-09-16,'Gavin Colfer','The Showgrounds',2091,2023
+146,Drogheda United,Bohemians,0 - 0,19:45,,,2023-09-22,'Paul McLaughlin','Weavers Park',1951,2023
+147,Shelbourne,Cork City,2 - 1,19:45,"J. Moylan 28'
+W. Jarvis 47'",36' R. Keating,2023-09-22,'David Dunne','Tolka Park',3595,2023
+148,St Patrick's Athletic,Dundalk,3 - 1,19:45,"T. Lonergan 49'
+T. Lonergan 57'
+M. Melia 98'",75' D. Kelly,2023-09-22,'Damien MacGraith','Richmond Park',3921,2023
+149,UCD,Shamrock Rovers,0 - 0,19:45,,,2023-09-22,"""Kevin O'Sullivan""",'UCD Bowl',1615,2023
+150,Sligo Rovers,Derry City,1 - 0,19:45,S. Radosavljević 84',,2023-09-22,'Robert Harvey','The Showgrounds',2451,2023
+151,Bohemians,Shelbourne,1 - 1,19:45,A. Coote 74',23' J. Moylan,2023-09-25,'Robert Harvey','Dalymount Park',4390,2023
+152,Dundalk,Cork City,5 - 0,19:45,"H. Muller 18'
+D. Horgan 27'
+S. Durrant 55'
+J. Martin 87'",33' C. Coleman,2023-09-25,'Paul McLaughlin','Oriel Park',1827,2023
+153,St Patrick's Athletic,Drogheda United,1 - 2,19:45,C. Forrester 40',"6' W. Davis
+81' D. Rooney",2023-09-25,'David Dunne','Richmond Park',3711,2023
+154,Bohemians,Sligo Rovers,3 - 1,19:45,"J. Afolabi 55'
+A. Coote 73'
+J. Afolabi 85'",93' Pedro Martelo,2023-09-29,"""Kevin O'Sullivan""",'Dalymount Park',4193,2023
+155,Cork City,St Patrick's Athletic,0 - 1,19:45,,77' M. Doyle,2023-09-29,'Oliver Moran',"""Turner's Cross""",2251,2023
+156,Derry City,UCD,6 - 0,19:45,"D. Mullen 5'
+W. Patching 46'
+C. McJannet 54'
+B. Kavanagh 69'
+M. Duffy 76'
+J. McGonigle 89'",,2023-09-29,"""Eoghan O'Shea""",'The Ryan McBride Brandywell Stadium',2500,2023
+157,Dundalk,Drogheda United,3 - 1,19:45,"P. Doyle 40'
+D. Kelly 46'
+P. Hoban 77'",26' K. Robinson,2023-09-29,'Robert Hennessy','Oriel Park',2728,2023
+158,Shamrock Rovers,Shelbourne,1 - 0,19:45,G. Burke 72',,2023-09-29,'Damien MacGraith','Tallaght Stadium',7879,2023
+159,Drogheda United,Derry City,0 - 0,19:45,,,2023-10-06,"""Kevin O'Sullivan""",'Weavers Park',1624,2023
+161,Shelbourne,Dundalk,1 - 0,19:45,W. Jarvis 4',,2023-10-06,"""Eoghan O'Shea""",'Tolka Park',3598,2023
+162,Bohemians,St Patrick's Athletic,0 - 2,19:45,,"59' M. Doyle
+82' C. Carty",2023-10-20,'Damien MacGraith','Dalymount Park',4084,2023
+163,Derry City,Shelbourne,0 - 0,19:45,,,2023-10-20,'Robert Hennessy','The Ryan McBride Brandywell Stadium',3100,2023
+164,Sligo Rovers,Dundalk,0 - 2,19:45,,"19' D. Horgan
+88' S. Durrant",2023-10-20,'Paul McLaughlin','The Showgrounds',1753,2023
+165,UCD,Cork City,0 - 2,15:00,,"44' J. O'Brien-Whitmarsh
+46' R. Keating",2023-10-22,'Paul Norton','UCD Bowl',317,2023
+166,Shamrock Rovers,Drogheda United,5 - 0,20:00,"T. Clarke 6'
+R. Towell 15'
+J. Kenny 27'
+N. Farrugia 48'
+M. Poom 53'",,2023-10-22,'Robert Harvey','Tallaght Stadium',4672,2023
+167,Cork City,Shamrock Rovers,0 - 0,16:45,,,2023-10-30,'Robert Hennessy',"""Turner's Cross""",2854,2023
+168,St Patrick's Athletic,Sligo Rovers,1 - 0,19:30,K. Leavy 37',,2023-10-23,"""Eoghan O'Shea""",'Richmond Park',3117,2023
+169,Cork City,Derry City,0 - 1,19:45,,74' R. Boyce,2023-10-27,'Damien MacGraith',"""Turner's Cross""",1868,2023
+170,Dundalk,Bohemians,2 - 0,19:45,"P. Doyle 77'
+D. Kelly 92'",,2023-10-27,'Robert Hennessy','Oriel Park',2780,2023
+171,Shelbourne,UCD,3 - 2,19:45,"J. Moylan 20'
+J. Moylan 63'
+J. Moylan 89'","50' M. Raggett
+81' D. Kinsella-Bishop",2023-10-27,'Paul McLaughlin','Tolka Park',3446,2023
+172,St Patrick's Athletic,Shamrock Rovers,0 - 2,20:00,,"84' A. Greene
+92' G. Burke",2023-10-27,'Neil Doyle','Richmond Park',5022,2023
+173,Sligo Rovers,Drogheda United,0 - 0,18:00,,,2023-10-28,'Alan Patchell','The Showgrounds',2047,2023
+174,Bohemians,Cork City,4 - 0,19:45,"D. Grant 12'
+J. Afolabi 46'
+J. Afolabi 57'",51' S. Bailey,2023-11-03,'Neil Doyle','Dalymount Park',4083,2023
+175,Derry City,St Patrick's Athletic,3 - 0,19:45,"B. Kavanagh 11'
+W. Patching 26'
+J. McEneff 86'",,2023-11-03,'Robert Harvey','The Ryan McBride Brandywell Stadium',2986,2023
+176,Drogheda United,Shelbourne,2 - 4,19:45,"D. Rooney 31'
+A. Foley 35'","48' J. Moylan
+54' W. Jarvis
+63' J. Moylan
+74' P. Barrett",2023-11-03,"""Eoghan O'Shea""",'Weavers Park',2180,2023
+177,UCD,Dundalk,1 - 5,19:45,M. Gallagher 6',"33' P. Doyle
+64' D. Horgan
+68' D. Kelly
+70' P. Hoban
+86' P. Hoban",2023-11-03,"""Kevin O'Sullivan""",'UCD Bowl',594,2023
+178,Shamrock Rovers,Sligo Rovers,4 - 2,19:45,"G. Burke 46'
+D. Watts 51'
+A. Greene 59'
+D. Watts 65'","8' K. Barlow
+80' F. Hartmann",2023-11-03,'Damien MacGraith','Tallaght Stadium',8021,2023
+179,Dundalk,Waterford,0 - 0,19:45,,,2024-03-15,"""Kevin O'Sullivan""",'Oriel Park',2243,2024
+180,Galway United,Shamrock Rovers,0 - 1,19:45,,84' J. Kenny,2024-03-15,'Paul McLaughlin','Eamonn Deacy Park',4131,2024
+181,St Patrick's Athletic,Shelbourne,1 - 2,19:45,J. Mulraney 71',"48' W. Jarvis
+58' W. Jarvis",2024-03-15,'Robert Harvey','Richmond Park',4988,2024
+182,Sligo Rovers,Drogheda United,3 - 1,19:45,"M. Mata 21'
+M. Mata 26'
+W. Waweru 86'",58' A. Quinn,2024-03-16,"""Eoghan O'Shea""",'The Showgrounds',2243,2024
+183,Derry City,Galway United,0 - 1,19:45,,85' S. Walsh,2024-03-29,'Declan Toland','The Ryan McBride Brandywell Stadium',3115,2024
+184,Drogheda United,St Patrick's Athletic,0 - 0,19:45,,,2024-03-29,"""Kevin O'Sullivan""",'Weavers Park',2236,2024
+185,Shelbourne,Dundalk,2 - 1,19:45,L. Burt 51',"74' H. Muller
+91' R. Benson",2024-03-29,'Damien MacGraith','Tolka Park',4012,2024
+186,Waterford,Sligo Rovers,0 - 1,19:45,,51' E. Chapman,2024-03-29,'Marc Lynch','Waterford Regional Sports Centre',2751,2024
+187,Shamrock Rovers,Bohemians,3 - 1,19:45,"J. Kenny 49'
+D. Burns 53'
+A. Greene 73'",93' D. McDaid,2024-03-29,'Robert Harvey','Tallaght Stadium',10094,2024
+188,Dundalk,Drogheda United,0 - 0,13:00,,,2024-04-01,'Paul McLaughlin','Oriel Park',2458,2024
+189,Galway United,Bohemians,0 - 2,19:45,,"21' J. Mills
+57' J. Akintunde",2024-04-01,'Gavin Colfer','Eamonn Deacy Park',3538,2024
+190,Shelbourne,Derry City,0 - 0,17:00,,,2024-04-01,"""Eoghan O'Shea""",'Tolka Park',3932,2024
+191,St Patrick's Athletic,Sligo Rovers,3 - 0,17:00,"L. Turner 10'
+L. Turner 42'
+M. Melia 86'",,2024-04-01,'Paul Norton','Richmond Park',3825,2024
+192,Waterford,Shamrock Rovers,1 - 2,17:00,R. McCourt 64',"55' D. Burns
+71' Roberto Lopes",2024-04-01,'Robert Hennessy','Waterford Regional Sports Centre',3681,2024
+193,Bohemians,Waterford,0 - 1,19:45,,31' P. Amond,2024-04-05,"""Kevin O'Sullivan""",'Dalymount Park',4342,2024
+194,Derry City,Dundalk,4 - 1,19:45,"A. O'Reilly 31'
+W. Patching 46'
+D. Mullen 58'
+M. Duffy 65'",75' R. O'Kane,2024-04-05,'David Dunne','The Ryan McBride Brandywell Stadium',3060,2024
+195,Drogheda United,Shelbourne,2 - 2,19:45,"O. Gallagher 21'
+E. Weir 70'","45' M. Coyle
+94' S. Boyd",2024-04-05,'Robert Hennessy','Weavers Park',2232,2024
+196,St Patrick's Athletic,Shamrock Rovers,2 - 1,19:45,"J. Redmond 53'
+A. Nolan 56'",4' D. Nugent,2024-04-05,'Damien MacGraith','Richmond Park',5015,2024
+197,Sligo Rovers,Galway United,0 - 0,19:45,,,2024-04-22,"""Eoghan O'Shea""",'The Showgrounds',2627,2024
+198,Drogheda United,Derry City,2 - 2,19:45,"W. Davis 3'
+F. Pierrot 86'","29' M. Duffy
+46' W. Patching",2024-04-12,'Damien MacGraith','Weavers Park',1763,2024
+199,Dundalk,St Patrick's Athletic,0 - 0,19:45,,,2024-04-12,'Gavin Colfer','Oriel Park',2325,2024
+200,Bohemians,Sligo Rovers,2 - 2,19:45,"S. Reinkort 5'
+J. Clarke 94'","23' R. Hutchinson
+47' F. Hartmann",2024-02-16,'Robert Harvey','Dalymount Park',4432,2024
+201,Derry City,Drogheda United,2 - 1,19:45,"R. Boyce 46'
+P. Hoban 63'",67' E. Weir,2024-02-16,'Damien MacGraith','The Ryan McBride Brandywell Stadium',3300,2024
+202,Galway United,St Patrick's Athletic,0 - 1,19:45,,3' J. Lennon,2024-02-16,"""Eoghan O'Shea""",'Eamonn Deacy Park',4094,2024
+203,Waterford,Shelbourne,1 - 1,19:45,M. Asamoah 3',78' S. Boyd,2024-02-16,"""Kevin O'Sullivan""",'Waterford Regional Sports Centre',4390,2024
+204,Shamrock Rovers,Dundalk,1 - 1,19:45,A. Greene 59',33' J. Gullan,2024-02-16,'Robert Hennessy','Tallaght Stadium',7610,2024
+205,Drogheda United,Waterford,1 - 4,19:45,Z. Bawa 13',"14' D. Leahy
+23' N. O'Keeffe
+62' D. Leahy
+71' P. Amond",2024-02-23,'Paul Norton','Weavers Park',2059,2024
+206,Dundalk,Galway United,0 - 2,19:45,,"10' E. McCarthy
+30' A. Dervin",2024-02-23,'Gavin Colfer','Oriel Park',3122,2024
+207,Shelbourne,Shamrock Rovers,2 - 1,19:45,"M. Coyle 17'
+W. Jarvis 26'",49' R. Gaffney,2024-02-23,'Robert Harvey','Tolka Park',4755,2024
+208,St Patrick's Athletic,Bohemians,0 - 1,19:45,,85' J. Flores,2024-02-23,'Robert Hennessy','Richmond Park',5013,2024
+209,Sligo Rovers,Derry City,0 - 0,19:45,,,2024-02-24,"""Kevin O'Sullivan""",'The Showgrounds',4317,2024
+210,Bohemians,Dundalk,1 - 0,19:45,J. Akintunde 80',,2024-04-15,"""Eoghan O'Shea""",'Dalymount Park',4045,2024
+211,Derry City,St Patrick's Athletic,2 - 1,19:45,"P. Hoban 65'
+D. Mullen 92'",47' R. Keating,2024-03-01,'Robert Harvey','The Ryan McBride Brandywell Stadium',3014,2024
+212,Galway United,Waterford,2 - 1,19:45,"V. Borden 48'
+D. Hurley 79'",18' P. Amond,2024-03-01,'Alan Patchell','Eamonn Deacy Park',3011,2024
+213,Sligo Rovers,Shelbourne,0 - 1,19:45,,12' J. O'Sullivan,2024-03-01,'Declan Toland','The Showgrounds',3087,2024
+214,Shamrock Rovers,Drogheda United,4 - 0,20:00,"J. Kenny 45'
+A. Greene 47'
+D. Burns 53'
+J. Honohan 74'",,2024-04-29,'Robert Hennessy','Tallaght Stadium',3847,2024
+215,Drogheda United,Bohemians,2 - 1,19:45,E. Weir 58',"46' D. Grant
+64' J. Clarke",2024-03-04,'Gavin Colfer','Weavers Park',2047,2024
+216,Dundalk,Sligo Rovers,0 - 5,19:45,,"7' E. Chapman
+14' F. Hartmann
+33' E. Chapman
+39' M. Mata
+62' M. Mata",2024-03-04,'Marc Lynch','Oriel Park',1663,2024
+217,Shelbourne,Galway United,1 - 0,19:45,J. Martin 15',,2024-03-04,'Robert Hennessy','Tolka Park',3773,2024
+218,Waterford,St Patrick's Athletic,3 - 1,19:45,"P. Amond 7'
+P. Amond 41'
+M. Asamoah 70'",34' A. Breslin,2024-03-04,"""Kevin O'Sullivan""",'Waterford Regional Sports Centre',3076,2024
+219,Shamrock Rovers,Derry City,2 - 2,19:45,"D. Burns 59'
+M. Poom 92'","72' P. Hoban
+84' D. Mullen",2024-03-04,'Damien MacGraith','Tallaght Stadium',4883,2024
+220,Bohemians,Shelbourne,0 - 2,19:45,,"80' W. Jarvis
+85' G. Molloy",2024-03-08,'Paul McLaughlin','Dalymount Park',4429,2024
+221,Derry City,Waterford,3 - 0,19:45,"P. Hoban 41'
+P. Hoban 50'
+P. Hoban 52'",,2024-03-08,'Paul Norton','The Ryan McBride Brandywell Stadium',3133,2024
+222,Galway United,Drogheda United,0 - 0,19:45,,,2024-03-08,'David Dunne','Eamonn Deacy Park',3475,2024
+223,St Patrick's Athletic,Dundalk,1 - 0,19:45,R. Keating 30',,2024-03-08,'Raymond Matthews','Richmond Park',4511,2024
+224,Sligo Rovers,Shamrock Rovers,0 - 0,19:45,,,2024-03-09,'Robert Hennessy','The Showgrounds',3674,2024
+225,Bohemians,Derry City,2 - 1,19:45,"D. Rooney 30'
+J. Akintunde 77'",79' R. Boyce,2024-03-15,'Robert Hennessy','Dalymount Park',4246,2024
+226,Shelbourne,Bohemians,1 - 2,19:45,W. Jarvis 63',"37' J. Flores
+40' J. Flores",2024-04-12,'Paul McLaughlin','Tolka Park',4855,2024
+227,Waterford,Galway United,0 - 0,19:45,,,2024-04-12,'Paul Norton','Waterford Regional Sports Centre',2537,2024
+228,Shamrock Rovers,Sligo Rovers,3 - 0,20:00,"G. Burke 36'
+A. Greene 50'
+A. Greene 63'",,2024-04-12,"""Kevin O'Sullivan""",'Tallaght Stadium',6059,2024
+229,Bohemians,Drogheda United,1 - 0,19:45,J. Akintunde 15',,2024-04-19,'Gavin Colfer','Dalymount Park',4305,2024
+230,Derry City,Shamrock Rovers,1 - 3,19:45,P. Hoban 87',"56' A. Greene
+62' A. Greene
+69' R. Towell",2024-04-19,'Paul McLaughlin','The Ryan McBride Brandywell Stadium',3159,2024
+231,Galway United,Shelbourne,1 - 0,19:45,E. McCarthy 24',,2024-04-19,'Damien MacGraith','Eamonn Deacy Park',2311,2024
+232,St Patrick's Athletic,Waterford,1 - 1,19:45,B. Kavanagh 65',13' M. Asamoah,2024-04-19,'David Dunne','Richmond Park',4376,2024
+233,Sligo Rovers,Dundalk,1 - 1,19:45,F. Hartmann 16',49' J. Gullan,2024-04-19,'Paul Norton','The Showgrounds',2287,2024
+234,Derry City,St Patrick's Athletic,3 - 1,19:45,"D. Mullen 16'
+P. Hoban 51'
+D. Mullen 56'",54' C. Keeley,2024-04-22,"""Kevin O'Sullivan""",'The Ryan McBride Brandywell Stadium',2691,2024
+235,Shelbourne,Shamrock Rovers,0 - 0,19:45,,,2024-04-22,'Robert Hennessy','Tolka Park',4628,2024
+236,Drogheda United,Sligo Rovers,3 - 1,19:45,"D. Markey 24'
+F. Pierrot 69'
+A. McNally 86'",6' W. Fitzgerald,2024-04-26,'Mark Houlihan','Weavers Park',1694,2024
+237,Dundalk,Bohemians,2 - 0,19:45,"S. High 13'
+R. Benson 35'",,2024-04-26,'Robert Hennessy','Oriel Park',2770,2024
+238,Shelbourne,St Patrick's Athletic,1 - 0,19:45,J. Martin 33',,2024-04-26,'Robert Harvey','Tolka Park',4755,2024
+239,Waterford,Derry City,0 - 2,19:45,,"38' W. Patching
+74' P. Hoban",2024-04-26,'Alan Patchell','Waterford Regional Sports Centre',2264,2024
+240,Shamrock Rovers,Galway United,1 - 1,20:00,J. Kenny 84',55' S. Walsh,2024-04-26,'David Dunne','Tallaght Stadium',5629,2024
+241,Bohemians,Shamrock Rovers,1 - 1,19:45,F. Piszczek 23',42' J. Kenny,2024-05-03,'Damien MacGraith','Dalymount Park',4429,2024
+242,Dundalk,Shelbourne,0 - 0,19:45,,,2024-05-03,"""Eoghan O'Shea""",'Oriel Park',2806,2024
+243,Galway United,Derry City,0 - 0,19:45,,,2024-05-03,'Robert Hennessy','Eamonn Deacy Park',2213,2024
+244,Sligo Rovers,Waterford,0 - 1,20:00,,46' C. Pattisson,2024-05-03,'Gavin Colfer','The Showgrounds',2087,2024
+245,St Patrick's Athletic,Drogheda United,1 - 0,19:45,R. Keating 45',,2024-05-03,'Declan Toland','Richmond Park',3765,2024
+246,Bohemians,Galway United,0 - 1,17:00,,18' M. Nugent,2024-05-06,'Paul Norton','Dalymount Park',4101,2024
+247,Derry City,Shelbourne,1 - 1,19:45,P. McMullan 56',89' S. Boyd,2024-05-06,'Robert Clarke','The Ryan McBride Brandywell Stadium',2578,2024
+248,Drogheda United,Dundalk,2 - 1,13:00,"F. Pierrot 55'
+H. Cann 94'",78' J. Gullan,2024-05-06,'Robert Harvey','Weavers Park',2339,2024
+249,Shamrock Rovers,Waterford,1 - 3,17:00,"L. Pöhls 3'
+J. Kenny 8'","17' D. McMenamy
+54' C. Parsons",2024-05-06,"""Eoghan O'Shea""",'Tallaght Stadium',4843,2024
+250,Sligo Rovers,St Patrick's Athletic,1 - 0,17:00,E. Chapman 22',,2024-05-06,'David Dunne','The Showgrounds',2548,2024
+251,Derry City,Bohemians,1 - 0,19:45,M. Duffy 85',,2024-05-10,'Robert Harvey','The Ryan McBride Brandywell Stadium',2574,2024
+252,Galway United,Sligo Rovers,0 - 0,19:45,,,2024-05-10,'Damien MacGraith','Eamonn Deacy Park',2912,2024
+253,Shelbourne,Drogheda United,1 - 1,19:45,S. Boyd 60',3' F. Pierrot,2024-05-10,'Gavin Colfer','Tolka Park',3598,2024
+254,Waterford,Dundalk,4 - 1,19:45,"M. Asamoah 2'
+M. Asamoah 44'
+C. Pattisson 53'
+M. Asamoah 76'",22' R. Benson,2024-05-10,'David Dunne','Waterford Regional Sports Centre',2178,2024
+255,Shamrock Rovers,St Patrick's Athletic,2 - 2,19:45,"A. Greene 4'
+D. Cleary 60'","23' L. Turner
+64' M. Melia",2024-05-10,'Paul McLaughlin','Tallaght Stadium',7073,2024
+256,Drogheda United,Galway United,2 - 3,19:45,"E. Weir 24'
+Z. Bawa 73'","4' R. Slevin
+91' M. Nugent
+94' S. Walsh",2024-05-17,'Declan Toland','Weavers Park',1697,2024
+257,Dundalk,Shamrock Rovers,1 - 0,20:15,J. Mountney 91',,2024-05-17,'Alan Patchell','Oriel Park',2530,2024
+258,Shelbourne,Waterford,1 - 0,19:45,S. Boyd 72',,2024-05-17,'Robert Harvey','Tolka Park',3586,2024
+259,St Patrick's Athletic,Derry City,0 - 1,19:45,,76' P. McMullan,2024-05-17,'Mark Houlihan','Richmond Park',4621,2024
+260,Sligo Rovers,Bohemians,0 - 3,19:45,,"2' J. Clarke
+35' A. Keita
+61' D. Rooney",2024-05-17,'Gavin Colfer','The Showgrounds',2087,2024
+261,St Patrick's Athletic,Shelbourne,1 - 2,19:45,J. Mulraney 72',"14' S. Boyd
+96' E. Caffrey",2024-05-20,'Robert Hennessy','Richmond Park',4811,2024
+262,Shamrock Rovers,Derry City,1 - 0,20:00,J. Kenny 7',,2024-05-20,'Damien MacGraith','Tallaght Stadium',4031,2024
+263,Bohemians,St Patrick's Athletic,2 - 2,19:45,"J. Akintunde 40'
+D. Grant 92'","28' C. Forrester
+51' C. Kavanagh",2024-05-24,'Robert Harvey','Dalymount Park',4431,2024
+264,Derry City,Sligo Rovers,2 - 2,19:45,"M. Duffy 51'
+W. Patching 83'","18' R. Hutchinson
+67' N. Morahan",2024-05-24,'Robert Hennessy','The Ryan McBride Brandywell Stadium',2679,2024
+265,Galway United,Dundalk,2 - 0,19:45,M. Nugent 72',23' R. Munro,2024-05-24,'Mark Houlihan','Eamonn Deacy Park',2302,2024
+266,Waterford,Drogheda United,4 - 2,19:45,"P. Amond 55'
+P. Amond 59'
+P. Amond 68'
+D. Power 74'","20' A. Foley
+46' Z. Bawa",2024-05-23,'Paul Norton','Waterford Regional Sports Centre',2423,2024
+267,Shamrock Rovers,Shelbourne,0 - 2,20:00,,"19' W. Jarvis
+58' W. Jarvis",2024-05-24,'Paul McLaughlin','Tallaght Stadium',8276,2024
+268,Drogheda United,Shamrock Rovers,0 - 2,19:45,,"47' J. Kenny
+52' G. Burke",2024-05-31,'Robert Harvey','Weavers Park',2262,2024
+269,Dundalk,Derry City,0 - 0,19:45,,,2024-05-31,'Daniel Murphy','Oriel Park',2411,2024
+270,Shelbourne,Sligo Rovers,1 - 2,19:45,S. Boyd 58',"22' K. Barlow
+69' F. Hartmann",2024-05-31,'Paul Norton','Tolka Park',3910,2024
+271,St Patrick's Athletic,Galway United,2 - 1,19:45,"M. Melia 35'
+A. Nolan 88'",69' F. Lomboto,2024-05-31,'Gavin Colfer','Richmond Park',4077,2024
+272,Waterford,Bohemians,2 - 1,19:45,"C. Pattisson 9'
+P. Amond 70'",30' D. Rooney,2024-05-31,'Alan Patchell','Waterford Regional Sports Centre',2994,2024
+273,Bohemians,Shelbourne,1 - 1,19:45,R. Tierney 83',59' M. Smith,2024-09-06,'Neil Doyle','Dalymount Park',4429,2024
+274,Derry City,Waterford,3 - 0,18:00,"M. Duffy 11'
+M. Connolly 21'
+P. Hoban 30'",,2024-06-03,'Paul McLaughlin','The Ryan McBride Brandywell Stadium',2084,2024
+275,Galway United,Shamrock Rovers,1 - 2,19:45,"C. McCormack 32'
+G. Buckley 84'",20' M. McNulty,2024-09-16,'Neil Doyle','Eamonn Deacy Park',3335,2024
+276,Sligo Rovers,Drogheda United,2 - 1,17:00,"C. Malley 18'
+C. Malley 42'",46' J. Keaney,2024-06-03,'Marc Lynch','The Showgrounds',2167,2024
+277,St Patrick's Athletic,Dundalk,2 - 3,17:15,"C. Forrester 27'
+J. Lennon 35'","2' J. Gullan
+4' R. O'Kane
+22' J. Gullan",2024-06-03,'Robert Hennessy','Richmond Park',3934,2024
+278,Derry City,Galway United,2 - 0,19:45,"W. Patching 65'
+P. Hoban 86'",,2024-06-07,"""Eoghan O'Shea""",'The Ryan McBride Brandywell Stadium',2429,2024
+279,Drogheda United,St Patrick's Athletic,0 - 0,19:45,,,2024-06-07,'Declan Toland','Weavers Park',2046,2024
+280,Shelbourne,Dundalk,1 - 0,19:45,J. Martin 71',,2024-06-07,'Damien MacGraith','Tolka Park',4060,2024
+281,Waterford,Sligo Rovers,4 - 1,19:45,"B. McCormack 25'
+C. Parsons 60'
+P. Amond 67'
+P. Amond 87'",86' W. Waweru,2024-06-07,'Neil Doyle','Waterford Regional Sports Centre',2392,2024
+282,Shamrock Rovers,Bohemians,1 - 0,19:45,G. Burke 84',,2024-09-23,'Robert Hennessy','Tallaght Stadium',6119,2024
+283,Bohemians,Derry City,1 - 2,19:45,D. Grant 15',"17' S. Diallo
+94' D. Mullen",2024-06-13,'Robert Hennessy','Dalymount Park',3843,2024
+284,Dundalk,Sligo Rovers,1 - 0,19:45,D. Horgan 54',,2024-06-13,'Paul McLaughlin','Oriel Park',2036,2024
+285,Galway United,Drogheda United,3 - 0,19:45,"S. Walsh 7'
+S. Walsh 61'
+C. O'Keeffe 93'",,2024-06-13,'Neil Doyle','Eamonn Deacy Park',1668,2024
+286,St Patrick's Athletic,Shamrock Rovers,2 - 1,19:45,"R. Keating 76'
+B. Kavanagh 96'",32' J. Kenny,2024-06-13,'Damien MacGraith','Richmond Park',4965,2024
+287,Waterford,Shelbourne,0 - 1,19:45,,55' W. Jarvis,2024-06-13,'Robert Harvey','Waterford Regional Sports Centre',2762,2024
+288,Derry City,Drogheda United,5 - 1,19:45,"C. Dummigan 6'
+W. Patching 30'
+D. Kelly 57'
+P. Hoban 66'
+C. Coll 88'",26' A. Foley,2024-06-28,'Robert Harvey','The Ryan McBride Brandywell Stadium',2589,2024
+289,Dundalk,Waterford,0 - 2,19:45,,"19' C. Parsons
+43' D. McMenamy",2024-06-28,'Paul Norton','Oriel Park',2073,2024
+290,Shelbourne,Galway United,2 - 0,19:45,"J. Martin 11'
+E. Caffrey 36'",,2024-06-28,'Robert Hennessy','Tolka Park',3643,2024
+291,Sligo Rovers,Shamrock Rovers,2 - 0,19:45,"S. Power 74'
+S. Power 83'",,2024-06-28,"""Eoghan O'Shea""",'The Showgrounds',3187,2024
+292,St Patrick's Athletic,Bohemians,0 - 0,19:45,,,2024-06-28,'Paul McLaughlin','Richmond Park',5015,2024
+293,Drogheda United,Shelbourne,1 - 1,19:45,D. James-Taylor 84',20' T. Wilson,2024-07-04,'Paul McLaughlin','Weavers Park',2085,2024
+294,Galway United,Bohemians,1 - 1,19:45,R. Slevin 50',4' D. Rooney,2024-07-04,"""Eoghan O'Shea""",'Eamonn Deacy Park',2319,2024
+295,Sligo Rovers,Derry City,2 - 1,19:45,"E. Chapman 62'
+E. Chapman 89'",54' P. McMullan,2024-07-04,'Damien MacGraith','The Showgrounds',2856,2024
+296,Waterford,St Patrick's Athletic,1 - 0,19:45,B. McCormack 52',,2024-07-04,'Robert Hennessy','Waterford Regional Sports Centre',2786,2024
+297,Shamrock Rovers,Dundalk,1 - 0,20:00,J. Kenny 29',,2024-07-04,'Marc Lynch','Tallaght Stadium',5317,2024
+298,Bohemians,Sligo Rovers,0 - 2,19:45,,"36' W. Waweru
+95' E. Chapman",2024-07-12,'Marc Lynch','Dalymount Park',4119,2024
+299,Dundalk,Drogheda United,4 - 2,19:45,"J. Hakiki 8'
+R. O'Kane 16'
+D. Horgan 55'
+D. Horgan 85'","36' D. James-Taylor
+93' D. James-Taylor",2024-07-12,'Robert Hennessy','Oriel Park',2776,2024
+300,Galway United,Waterford,1 - 0,19:45,P. Hickey 23',,2024-07-12,'Damien MacGraith','Eamonn Deacy Park',2024,2024
+301,Bohemians,Dundalk,1 - 1,19:45,R. Tierney 19',27' D. Horgan,2024-07-26,"""Eoghan O'Shea""",'Dalymount Park',4239,2024
+302,Drogheda United,Waterford,2 - 0,19:45,"F. Pierrot 15'
+A. Foley 89'",,2024-07-26,'Paul Norton','Weavers Park',1791,2024
+303,Sligo Rovers,Galway United,2 - 0,19:45,"W. Waweru 33'
+L. Pearce 95'",,2024-07-27,'Gavin Colfer','The Showgrounds',2976,2024
+304,Drogheda United,Bohemians,2 - 2,19:45,"S. Farrell 9'
+J. Bolger 22'","18' D. Rooney
+60' C. Byrne",2024-08-02,'Robert Harvey','Weavers Park',2296,2024
+305,Dundalk,Galway United,0 - 2,19:45,,"53' S. Walsh
+87' S. Walsh",2024-08-02,'Paul Norton','Oriel Park',2176,2024
+306,Shelbourne,Derry City,0 - 0,19:45,,,2024-08-05,'Damien MacGraith','Tolka Park',4596,2024
+307,St Patrick's Athletic,Sligo Rovers,3 - 2,18:00,"A. Keena 26'
+B. Kavanagh 65'
+B. Kavanagh 100'","22' C. Malley
+53' E. Chapman",2024-08-04,'Robert Hennessy','Richmond Park',3211,2024
+308,Waterford,Shamrock Rovers,1 - 2,19:45,C. Pattisson 52',"8' C. O'Sullivan
+85' G. Burke",2024-08-02,'Paul McLaughlin','Waterford Regional Sports Centre',3102,2024
+309,Bohemians,Waterford,2 - 3,19:45,"D. Rooney 6'
+D. Devoy 37'
+A. McDonnell 46'","62' D. Power
+81' S. Glenfield",2024-08-09,'Damien MacGraith','Dalymount Park',4267,2024
+310,Derry City,Dundalk,1 - 1,19:45,D. Mullen 64',21' J. Mountney,2024-08-09,'Robert Harvey','The Ryan McBride Brandywell Stadium',2384,2024
+311,Galway United,St Patrick's Athletic,1 - 1,15:00,E. McCarthy 53',37' J. McClelland,2024-08-11,'Daniel Murphy','Eamonn Deacy Park',2813,2024
+312,Shamrock Rovers,Drogheda United,1 - 1,19:00,D. Burns 6',74' D. James-Taylor,2024-08-11,'Robert Hennessy','Tallaght Stadium',3681,2024
+313,Sligo Rovers,Shelbourne,2 - 1,19:45,"W. Fitzgerald 24'
+W. Waweru 65'",56' E. Caffrey,2024-08-10,'David Dunne','The Showgrounds',3056,2024
+314,Drogheda United,Sligo Rovers,7 - 0,19:45,"D. James-Taylor 4'
+A. Quinn 11'
+F. Pierrot 37'
+F. Pierrot 58'
+C. Kane 61'
+E. Ahui 76'
+A. Foley 91'",,2024-08-23,'Robert Harvey','Weavers Park',1915,2024
+315,Dundalk,St Patrick's Athletic,1 - 2,19:45,E. Kenny 2',"55' T. Grivosti
+68' M. Melia",2024-09-05,'Damien MacGraith','Oriel Park',2267,2024
+316,Shelbourne,Bohemians,1 - 1,19:45,A. Coote 14',12' D. Grant,2024-08-23,'Damien MacGraith','Tolka Park',4755,2024
+317,Waterford,Derry City,0 - 1,19:45,,60' B. Doherty,2024-08-23,'Neil Doyle','Waterford Regional Sports Centre',2693,2024
+318,Shamrock Rovers,Galway United,1 - 1,19:00,D. Mândroiu 88',74' P. Hickey,2024-08-25,'Gavin Colfer','Tallaght Stadium',3017,2024
+319,Bohemians,Shamrock Rovers,2 - 1,11:30,"R. Tierney 24'
+F. Piszczek 84'",15' N. Farrugia,2024-09-01,'Paul McLaughlin','Dalymount Park',4436,2024
+320,Dundalk,Shelbourne,0 - 1,19:45,,4' A. O'Brien,2024-08-30,"""Eoghan O'Shea""",'Oriel Park',2234,2024
+321,Galway United,Derry City,1 - 0,19:45,P. Hickey 76',,2024-08-30,"""Kevin O'Sullivan""",'Eamonn Deacy Park',2574,2024
+322,St Patrick's Athletic,Drogheda United,4 - 1,18:00,"C. Forrester 30'
+J. Mulraney 45'
+J. Mulraney 50'
+M. Melia 93'",43' D. James-Taylor,2024-09-01,'Robert Hennessy','Richmond Park',3022,2024
+323,Sligo Rovers,Waterford,2 - 0,19:45,"W. Waweru 18'
+S. Power 72'",,2024-08-31,'Paul Norton','The Showgrounds',2432,2024
+324,Derry City,Bohemians,1 - 1,19:45,P. Hoban 61',20' A. Meekison,2024-10-11,'Neil Doyle','The Ryan McBride Brandywell Stadium',3123,2024
+325,Drogheda United,Galway United,0 - 0,19:45,,,2024-09-23,'Gavin Colfer','Weavers Park',1618,2024
+326,Shelbourne,St Patrick's Athletic,2 - 3,19:15,"R. Tulloch 76'
+M. Smith 80'","22' J. Redmond
+62' B. Kavanagh
+88' A. Kazeem",2024-09-30,'Damien MacGraith','Tolka Park',4382,2024
+327,Waterford,Dundalk,2 - 1,19:45,"S. Bellis 5'
+P. Amond 16'",76' J. Gullan,2024-09-13,'Robert Hennessy','Waterford Regional Sports Centre',2226,2024
+328,Shamrock Rovers,Sligo Rovers,4 - 0,19:45,"J. Kenny 18'
+J. Kenny 43'
+S. Hoare 64'
+S. Hoare 83'",,2024-09-13,"""Kevin O'Sullivan""",'Tallaght Stadium',4571,2024
+329,Bohemians,Drogheda United,0 - 1,19:45,,28' F. Pierrot,2024-09-20,'Robert Harvey','Dalymount Park',4275,2024
+330,Derry City,Shamrock Rovers,1 - 1,19:45,P. Hoban 92',26' D. Watts,2024-09-20,'Damien MacGraith','The Ryan McBride Brandywell Stadium',3382,2024
+331,Galway United,Shelbourne,1 - 0,19:45,J. Keohane 2',,2024-09-20,"""Kevin O'Sullivan""",'Eamonn Deacy Park',3500,2024
+332,St Patrick's Athletic,Waterford,3 - 0,19:45,"Z. Elbouzedi 35'
+M. Melia 39'
+A. Keena 77'",,2024-09-20,'Neil Doyle','Richmond Park',4237,2024
+333,Sligo Rovers,Dundalk,2 - 1,19:45,"W. Waweru 69'
+E. Chapman 76'",24' R. Benson,2024-09-21,'Marc Lynch','The Showgrounds',2754,2024
+334,Drogheda United,Derry City,2 - 1,19:45,"F. Pierrot 62'
+F. Pierrot 70'",83' S. Robertson,2024-09-27,'Robert Hennessy','Weavers Park',1950,2024
+335,Shelbourne,Sligo Rovers,0 - 0,19:45,,,2024-09-27,'Paul McLaughlin','Tolka Park',4125,2024
+336,Dundalk,Bohemians,0 - 2,19:45,J. Mountney 84',58' D. Devoy,2024-09-27,"""Kevin O'Sullivan""",'Oriel Park',3080,2024
+337,Waterford,Galway United,1 - 2,19:45,D. McMenamy 7',"61' S. Walsh
+68' K. Brouder",2024-09-27,'Paul Norton','Waterford Regional Sports Centre',2357,2024
+338,Bohemians,St Patrick's Athletic,1 - 3,19:45,D. Devoy 89',"60' A. Keena
+76' J. Mulraney
+81' J. Redmond",2024-10-14,'Robert Hennessy','Dalymount Park',3761,2024
+339,Shamrock Rovers,St Patrick's Athletic,0 - 3,20:00,,"1' J. Redmond
+13' J. Mulraney
+59' J. Mulraney",2024-09-27,'Robert Harvey','Tallaght Stadium',6839,2024
+340,Derry City,Sligo Rovers,1 - 1,19:15,,"34' C. Malley
+53' R. Hutchinson",2024-10-14,'Paul Norton','The Ryan McBride Brandywell Stadium',3248,2024
+341,Galway United,Dundalk,1 - 1,19:45,P. Hickey 41',96' E. Kenny,2024-10-04,"""Eoghan O'Shea""",'Eamonn Deacy Park',4128,2024
+342,Waterford,Drogheda United,0 - 0,19:45,,,2024-10-11,'Gavin Colfer','Waterford Regional Sports Centre',2030,2024
+343,Shamrock Rovers,Shelbourne,2 - 0,17:45,"J. Byrne 18'
+N. Farrugia 85'",,2024-10-06,'Neil Doyle','Tallaght Stadium',7861,2024
+344,Drogheda United,Shamrock Rovers,0 - 1,19:45,,84' D. Watts,2024-10-18,"""Kevin O'Sullivan""",'Weavers Park',2357,2024
+345,Dundalk,Derry City,0 - 2,19:45,,"16' C. Whelan
+77' W. Patching",2024-10-18,'Gavin Colfer','Oriel Park',2350,2024
+346,Shelbourne,Waterford,3 - 1,19:45,"S. Boyd 40'
+S. Boyd 80'
+L. Burt 84'",37' P. Amond,2024-10-18,'Robert Hennessy','Tolka Park',4755,2024
+347,St Patrick's Athletic,Galway United,2 - 1,19:45,"A. Keena 32'
+A. Keena 68'",50' E. McCarthy,2024-10-18,'Neil Doyle','Richmond Park',4851,2024
+348,Dundalk,Shamrock Rovers,0 - 1,17:45,,58' D. Watts,2024-10-27,'Robert Harvey','Oriel Park',2224,2024
+349,Sligo Rovers,Bohemians,0 - 2,19:45,,"23' D. Devoy
+82' A. Meekison",2024-10-19,'Robert Harvey','The Showgrounds',3436,2024
+350,Galway United,Sligo Rovers,2 - 2,19:45,"J. Keohane 58'
+S. Walsh 83'","34' L. Pearce
+61' S. Power",2024-10-25,"""Kevin O'Sullivan""",'Eamonn Deacy Park',4323,2024
+351,Shelbourne,Drogheda United,2 - 1,19:45,"S. Boyd 11'
+R. Tulloch 54'",67' B. Bosakani,2024-10-25,'Neil Doyle','Tolka Park',4700,2024
+352,Waterford,Bohemians,1 - 1,19:45,S. Glenfield 92',81' J. Clarke,2024-10-25,'Damien MacGraith','Waterford Regional Sports Centre',2463,2024
+353,St Patrick's Athletic,Derry City,1 - 0,19:45,B. Kavanagh 44',,2024-10-25,'Robert Hennessy','Richmond Park',4998,2024
+354,Bohemians,Galway United,v,19:45,postponed,postponed,2024-11-01,'Robert Hennessy','Dalymount Park',4196,2024
+355,Derry City,Shelbourne,v,19:45,postponed,postponed,2024-11-01,'Paul McLaughlin','The Ryan McBride Brandywell Stadium',3135,2024
+356,Shamrock Rovers,Waterford,v,19:45,postponed,postponed,2024-11-01,'Neil Doyle','Tallaght Stadium',9522,2024
+357,Drogheda United,Dundalk,v,19:45,postponed,postponed,2024-11-01,'Damien MacGraith','Weavers Park',2030,2024
+358,Sligo Rovers,St Patrick's Athletic,v,19:45,postponed,postponed,2024-11-01,'Robert Harvey','The Showgrounds',3620,2024
+359,Cork City,Galway United,2 - 2,19:45,"M. Dijksteel 34'
+G. Bolger 51'","46' P. Hickey
+81' V. Borden",2025-02-14,"""Aaron O'Dowd""","""Turner's Cross""",5031,2025
+360,Shelbourne,Derry City,3 - 1,19:45,"S. Boyd 11'
+E. Caffrey 15'
+S. Boyd 45'",14' M. Duffy,2025-02-14,'Robert Harvey','Tolka Park',4780,2025
+361,St Patrick's Athletic,Drogheda United,0 - 0,19:45,,,2025-02-14,'Neil Doyle','Richmond Park',5034,2025
+362,Sligo Rovers,Waterford,2 - 3,19:45,"O. Elding 50'
+J. Hakiki 82'","13' R. McDonald
+33' T. Lonergan
+58' C. Noonan",2025-02-15,'Damien MacGraith','The Showgrounds',3612,2025
+363,Bohemians,Shamrock Rovers,1 - 0,14:00,R. Tierney 25',,2025-02-16,'Robert Hennessy','Aviva Stadium',33208,2025
+364,Derry City,Bohemians,1 - 0,19:45,M. Duffy 10',,2025-02-21,'Marc Lynch','The Ryan McBride Brandywell Stadium',3264,2025
+365,Drogheda United,Sligo Rovers,3 - 0,19:45,"J. Thomas 41'
+D. Markey 74'
+L. Heeney 94'",,2025-02-21,'David Dunne','Sullivan & Lambe Park',2212,2025
+366,Galway United,St Patrick's Athletic,2 - 1,19:45,"P. Hickey 18'
+P. Hickey 25'",30' A. Keena,2025-02-21,'Damien MacGraith','Eamonn Deacy Park',4231,2025
