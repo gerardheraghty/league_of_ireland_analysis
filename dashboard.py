@@ -34,6 +34,7 @@ default_team = "Sligo Rovers"
 
 # Initialize the Dash app with Bootstrap CSS
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 # App layout using Bootstrap components for better styling
 app.layout = dbc.Container([
     dbc.Row([
@@ -169,7 +170,6 @@ def update_chart(selected_club, selected_seasons):
     )
     
     return fig
-
-#indicating that I want the dashboard to be opened from another webpage (i.e not within the notebook)
+#running the server
 if __name__ == '__main__':
-    app.run(jupyter_mode="external")
+    app.run_server(debug=False, host='0.0.0.0')
