@@ -14,7 +14,6 @@ loi_df['date'] = pd.to_datetime(loi_df['date'])
 
 #extract unique teams and seasons for dropdown options
 all_teams = sorted(list(set(loi_df['home_team'].unique()) | set(loi_df['away_team'].unique())))
-loi_df['season'] = loi_df['date'].dt.year
 all_seasons = sorted(loi_df['season'].unique())
 
 #---------------------------------DASH APP---------------------------------
@@ -170,6 +169,7 @@ def update_chart(selected_club, selected_seasons):
     )
     
     return fig
+
 #running the server
 if __name__ == '__main__':
     app.run_server(debug=False, host='0.0.0.0')
